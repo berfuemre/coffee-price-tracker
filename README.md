@@ -47,3 +47,22 @@ Product Tracker is a web application designed to help users track products from 
 **Version Control:** Using Git for version control and collaboration.
 
 
+**How to Install**
+
+1- Clone the repository
+   git clone https://github.com/berfuemre/coffee-price-tracker
+
+2- Install the required packages.
+   pip install -r requirements.txt
+
+3-Set up the environment variables (create a .env file):
+   TWILIO_ACCOUNT_SID=your_account_sid
+   TWILIO_AUTH_TOKEN=your_auth_token
+   TWILIO_PHONE_NUMBER=your_twilio_phone_number
+
+4-Run the application
+  python main.py
+
+
+
+
