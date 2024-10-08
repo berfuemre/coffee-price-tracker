@@ -33,9 +33,17 @@ Product Tracker is a web application designed to help users track products from 
 
 
 **Skills Demonstrated**
-Web Development: Building and deploying a web application using Flask.
-Database Management: Designing and implementing a database schema using SQLAlchemy.
-API Integration: Utilizing Twilio for SMS notifications and httpx for making HTTP requests.
-Data Scraping: Extracting and processing product information from various websites.
-Logging and Debugging: Implementing logging to monitor application performance and troubleshoot issues.
-Version Control: Using Git for version control and collaboration.
+
+**Web Development:** Building and deploying a web application using Flask.
+
+**Database Management:** Designing and implementing a database schema using SQLAlchemy.
+
+**API Integration:** Utilizing Twilio for SMS notifications and httpx for making HTTP requests.
+
+**Data Scraping:** Extracting and processing product information from various websites.
+
+**Logging and Debugging:** Implementing logging to monitor application performance and troubleshoot issues.
+
+**Version Control:** Using Git for version control and collaboration.
+
+
