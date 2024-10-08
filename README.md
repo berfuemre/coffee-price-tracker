@@ -16,7 +16,7 @@ Product Tracker is a web application designed to help users track products from 
 
 
 
-              **Technologies Used**
+   **Technologies Used**
 
 
 **Flask:** A lightweight web framework for building the application.
@@ -32,7 +32,7 @@ Product Tracker is a web application designed to help users track products from 
 **Python:** The programming language used for building the application.
 
 
-              **Skills Demonstrated**
+   **Skills Demonstrated**
 
 **Web Development:** Building and deploying a web application using Flask.
 
