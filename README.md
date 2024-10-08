@@ -18,12 +18,19 @@ Product Tracker is a web application designed to help users track products from 
 
 **Technologies Used**
 
+
 **Flask:** A lightweight web framework for building the application.
+
 **SQLAlchemy:** An ORM (Object-Relational Mapping) library for managing database interactions.
+
 **SQLite**: A lightweight database for storing product and user data.
+
 **httpx:** An HTTP client for making requests to the product URLs.
+
 **Twilio:** A cloud communications platform for sending SMS notifications.
+
 **Python:** The programming language used for building the application.
+
 
 **Skills Demonstrated**
 Web Development: Building and deploying a web application using Flask.
